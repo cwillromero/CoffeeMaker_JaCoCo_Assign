@@ -1,0 +1,5 @@
+>gradle build 
+to run the test and generate the gradle report
+
+>gradle jacocoTestReport
+to create the Jacoco Report
